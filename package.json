@@ -1,0 +1,26 @@
+{
+  "name": "nodeproject_game",
+  "version": "1.0.0",
+  "description": "A simple game to get used to node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "test_game"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/smfrye9755/sinkhole.git"
+  },
+  "keywords": [
+    "sinkhole",
+    "game"
+  ],
+  "author": "Spencer Frye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smfrye9755/sinkhole/issues"
+  },
+  "homepage": "https://github.com/smfrye9755/sinkhole#readme",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
