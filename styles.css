@@ -1,0 +1,8 @@
+#gameScreen {
+    width: 50vw;
+    height: 50vh;
+    border: 3px double blue;
+    position: relative;
+    top: 25vh;
+    left: 25vw;
+}
